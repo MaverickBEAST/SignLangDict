@@ -7,4 +7,4 @@ platform using Java and Firebase API. It is complete with User
 Authentication, Search and Users can Add new Words to the Dictionary.
 Successfully Developed and completed the project.
 
-Download APK from [Here](https://github.com/MaverickBEAST/SignLangDict/blob/master/app/release/app-release.apk)
+Download APK from [Here](https://raw.githubusercontent.com/MaverickBEAST/SignLangDict/master/app/release/app-release.apk)
